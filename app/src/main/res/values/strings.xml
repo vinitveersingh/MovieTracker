@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">The Movie Database</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="upcoming_movies">Upcoming Movies</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="movie_popularity">Movie Popularity</string>
+    <string name="movie_genre">Movie Genre</string>
+    <string name="popularity">Popularity :  </string>
+
+
+</resources>

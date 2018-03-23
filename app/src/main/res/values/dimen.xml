@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="pad_xsmall">2dp</dimen>
+    <dimen name="pad_small">5dp</dimen>
+    <dimen name="pad_medium">10dp</dimen>
+    <dimen name="pad_large">15dp</dimen>
+    <dimen name="pad_xlarge">20dp</dimen>
+
+    <dimen name="margin_xsmall">2dp</dimen>
+    <dimen name="margin_small">5dp</dimen>
+    <dimen name="margin_medium">10dp</dimen>
+    <dimen name="margin_large">15dp</dimen>
+    <dimen name="margin_xlarge">20dp</dimen>
+
+
+</resources>
